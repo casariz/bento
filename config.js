@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'ZonaTMO',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://zonatmo.com/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Amazon',
+			icon: 'shopping-bag',
+			link: 'https://amazon.com/',
 		},
 	],
 
