@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Japanese',
+					link: 'https://music.youtube.com/watch?v=_GXbXU4g_CA&list=RDAMVM_GXbXU4g_CA',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Romantic',
+					link: 'https://music.youtube.com/watch?v=vFKLcYnKBkA&list=RDAMVMvFKLcYnKBkA',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Phonk brasil',
+					link: 'https://music.youtube.com/watch?v=RlIKW0mF3YE&list=RDAMVMRlIKW0mF3YE',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Phonk',
+					link: 'https://music.youtube.com/watch?v=pq7GI2ViHSc&list=RDAMVMpq7GI2ViHSc',
 				},
 			],
 		},
@@ -165,12 +165,12 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Computrabajo',
+					link: 'https://co.computrabajo.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'V0',
+					link: 'https://v0.dev/',
 				},
 				{
 					name: 'Slack',
