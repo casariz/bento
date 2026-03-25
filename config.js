@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'ZonaTMO',
 			icon: 'glasses',
-			link: 'https://zonatmo.com/',
+			link: 'https://zonatmo.to/',
 		},
 		{
 			id: '6',
@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://v0.dev/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Zendesk',
+					link: 'https://buk.zendesk.com/agent/home/tickets',
 				},
 			],
 		},
